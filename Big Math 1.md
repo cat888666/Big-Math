@@ -125,6 +125,7 @@ $$
 
 $\displaystyle\lim_{ x \to 0y\to_{1} }\frac{1-xy}{x^2+y^2}$
 
+$\displaystyle\lim_{ x \to 0 y\to 1}\frac{1-xy}{x^2+y^2}$
 
 
 
