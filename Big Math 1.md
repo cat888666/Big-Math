@@ -114,7 +114,9 @@ $\frac{d}{dt}$
 
 $\int_{0}^{1}  \, dx$
 
-$\displaystyle\int_{0}^{1},dx$
+$dis$
+
+$\displaystyle\int_{0}^{1}dx$
 
 $$
 \begin{align*}
