@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Math 1.md",
+                "file": "Big Math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Math 1"
+              "title": "Big Math"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "8ebe2a13181a0ae5",
   "lastOpenFiles": [
-    "Big Math.md",
     "Big Math 1.md",
+    "Big Math.md",
     "新建 文本文档.txt"
   ]
 }
