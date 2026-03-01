@@ -114,9 +114,11 @@ $\frac{d}{dt}$
 
 $\int_{0}^{1}  \, dx$
 
-$dis$ 
+$$
+\lim_{ n \to \infty } 
+\frac{123}{n+1}
 
-$\displaystyle\int_{0}^{1}dx$
+\displaystyle\int_{0}^{1}dx
 
 $$
 \begin{align*}
