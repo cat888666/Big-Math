@@ -121,6 +121,15 @@ $$
 \displaystyle\int_{0}^{1}dx
 
 $$
+
+
+$\displaystyle\lim_{ x \to 0y\to_{1} }\frac{1-xy}{x^2+y^2}$
+
+
+
+
+
+$$
 \begin{align*}
 $\frac{1}{2}\\
 asd
