@@ -115,4 +115,12 @@ $\frac{d}{dt}$
 $\int_{0}^{1}  \, dx$
 
 $$
+\begin{align*}
+$\frac{1}{2}\\
+asd
+\end{align*}
+$$
+$$
+$\frac{1}{12}
+
 $$
