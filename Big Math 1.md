@@ -114,6 +114,8 @@ $\frac{d}{dt}$
 
 $\int_{0}^{1}  \, dx$
 
+$dis$
+
 $$
 \begin{align*}
 $\frac{1}{2}\\
