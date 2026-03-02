@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二重积分的计算.md",
+                "file": "微分方程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二重积分的计算"
+              "title": "微分方程"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "8ebe2a13181a0ae5",
   "lastOpenFiles": [
-    "Big Math.md",
     "二重积分的计算.md",
+    "微分方程.md",
+    "Big Math.md",
     "markdown.md",
     "二重积分的计算·",
     "新建 文本文档.txt"
