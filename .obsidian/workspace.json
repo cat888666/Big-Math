@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数下考纲.md",
+                "file": "部分期末题.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高数下考纲"
+              "title": "部分期末题"
             }
           }
         ]
@@ -186,10 +186,11 @@
   },
   "active": "8ebe2a13181a0ae5",
   "lastOpenFiles": [
+    "对抽象函数g,h求y的偏导.md",
+    "高数下考纲.md",
     "二元函数的极值.md",
     "二元函数有约束条件求极值.md",
     "和函数.md",
-    "高数下考纲.md",
     "部分期末题.md",
     "级数收敛性判断.md",
     "方向导数与梯度.md",
@@ -200,8 +201,6 @@
     "偏导数.md",
     "二重极限的计算.md",
     "微分方程.md",
-    "对抽象函数g,h求y的偏导.md",
-    "对抽象函数g,h求y的偏导.md",
     "多元函数求极值.md",
     "多元函数求全微分.md",
     "多元隐函数求偏导数.md",
